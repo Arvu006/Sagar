@@ -1,5 +1,5 @@
 # Hacking
-Hacking generally refers to unauthorized intrusion into a computer or a network. The person engaged in hacking activities is known as a hacker. This hacker may alter system to accomplish a goal that differs from the original purpose of the system.
+Hacking generally refers to unauthorized intrusion into a computer or a network.The person engaged in hacking activities is known as a hacker.  Hacker may alter system to accomplish a goal that differs from the original purpose of the system.
 ![cybercrime-hacking-NorthKorea-Lazarus](https://user-images.githubusercontent.com/59701199/72126520-66227f00-3392-11ea-893e-c256ade7a518.jpg)
 # There are generally Four types of hackers.
 # White Hat Hackers
