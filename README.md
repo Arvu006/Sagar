@@ -1,6 +1,6 @@
 # Hacking
 Hacking generally refers to unauthorized intrusion into a computer or a network. The person engaged in hacking activities is known as a hacker. This hacker may alter system or security features to accomplish a goal that differs from the original purpose of the system.
-
+![cybercrime-hacking-NorthKorea-Lazarus](https://user-images.githubusercontent.com/59701199/72126520-66227f00-3392-11ea-893e-c256ade7a518.jpg)
 # There are generally Four types of hackers.
 # White Hat Hackers
  A white hat hacker is a computer security specialist who breaks into protected systems and networks to test and asses their security. White hat hackers use their skills to improve security by exposing vulnerabilities before malicious hackers (known as black hat hackers) can detect and exploit them.
