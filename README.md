@@ -4,6 +4,7 @@ Hacking generally refers to unauthorized intrusion into a computer or a network.
 # There are generally Four types of hackers.
 # White Hat Hackers
  A white hat hacker is a computer security specialist who breaks into protected systems and networks to test and asses their security. White hat hackers use their skills to improve security by exposing vulnerabilities before malicious hackers (known as black hat hackers) can detect and exploit them.
+ <img src = "images/">
 # Black Hat Hackers
 A black hat hacker is a person who attempts to find computer security vulnerabilities and exploit them for personal financial gain or other malicious reasons. This differs from white hat hackers, which are security specialists employed to use hacking methods to find security flaws that black hat hackers may exploit.
 # Grey Hat Hacker
