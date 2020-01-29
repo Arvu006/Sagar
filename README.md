@@ -21,6 +21,8 @@ Disaster recovery and business continuity define how an organization responds to
 
 End-user education addresses the most unpredictable cyber-security factor: people. Anyone can accidentally introduce a virus to an otherwise secure system by failing to follow good security practices. Teaching users to delete suspicious email attachments, not plug in unidentified USB drives, and various other important lessons is vital for the security of any organization.
 
+![iot-security-rapid7](https://user-images.githubusercontent.com/59701199/73365333-220c0580-42d2-11ea-9a05-4b3ba0ef9b7d.jpg)
+
 
 **The scale of the cyber threat**
 
