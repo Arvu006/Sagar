@@ -23,3 +23,19 @@ End-user education addresses the most unpredictable cyber-security factor: peopl
 
 
 **The scale of the cyber threat**
+
+The U.S. government spends $19 billion per year [1] on cyber-security but warns that cyber-attacks continue to evolve at a rapid pace. To combat the proliferation of malicious code and aid in early detection, the National Institute of Standards and Technology (NIST) recommends continuous, real-time monitoring of all electronic resources.
+
+The threats countered by cyber-security are three-fold:
+
+
+1. Cybercrime includes single actors or groups targeting systems for financial gain or to cause disruption.
+
+
+2. Cyber attack often involves politically motivated information gathering.
+
+
+3. Cyberterror is intended to undermine electronic systems to cause panic or fear.
+Common methods attackers use to control computers or networks include viruses, worms, spyware, Trojans, and ransomware. Viruses and worms can self-replicate and damage files or systems, while spyware and Trojans are often used for surreptitious data collection. Ransomware waits for an opportunity to encrypt all the user’s information and demands payment to return access to the user. Malicious code often spreads via an unsolicited email attachment or a legitimate-looking download that actually carries a malware payload.
+Cyber-security threats affect all industries, regardless of size. The industries that reported the most cyberattacks in recent years are healthcare, manufacturing, finance, and government [2]. Some of these sectors are more appealing to cybercriminals because they collect financial and medical data, but all businesses that use networks can be targeted for customer data, corporate espionage, or customer attacks.
+
