@@ -13,6 +13,10 @@ Application security focuses on keeping software and devices free of threats. A 
 Information security protects the integrity and privacy of data, both in storage and in transit.
 
 
+![iot-security-rapid7](https://user-images.githubusercontent.com/59701199/73365333-220c0580-42d2-11ea-9a05-4b3ba0ef9b7d.jpg)
+
+
+
 Operational security includes the processes and decisions for handling and protecting data assets. The permissions users have when accessing a network and the procedures that determine how and where data may be stored or shared all fall under this umbrella.
 
 
@@ -21,10 +25,12 @@ Disaster recovery and business continuity define how an organization responds to
 
 End-user education addresses the most unpredictable cyber-security factor: people. Anyone can accidentally introduce a virus to an otherwise secure system by failing to follow good security practices. Teaching users to delete suspicious email attachments, not plug in unidentified USB drives, and various other important lessons is vital for the security of any organization.
 
-![iot-security-rapid7](https://user-images.githubusercontent.com/59701199/73365333-220c0580-42d2-11ea-9a05-4b3ba0ef9b7d.jpg)
-
 
 **The scale of the cyber threat**
+
+![iot-security-rapid7](https://user-images.githubusercontent.com/59701199/73365333-220c0580-42d2-11ea-9a05-4b3ba0ef9b7d.jpg)
+![https___specials-images forbesimg com_dam_imageserve_700843042_960x0](https://user-images.githubusercontent.com/59701199/73365582-829b4280-42d2-11ea-9de9-83f84e7e5381.jpg)
+
 
 The U.S. government spends $19 billion per year [1] on cyber-security but warns that cyber-attacks continue to evolve at a rapid pace. To combat the proliferation of malicious code and aid in early detection, the National Institute of Standards and Technology (NIST) recommends continuous, real-time monitoring of all electronic resources.
 
