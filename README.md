@@ -50,6 +50,8 @@ Cyber-security threats affect all industries, regardless of size. The industries
 
 **End user protection**
 
+![security_tools-600x407](https://user-images.githubusercontent.com/59701199/73365897-1240f100-42d3-11ea-8a1e-55b87a9bf5c2.jpg)
+
 
 So, how do cyber-security measures protect users and systems? First, cyber-security relies on cryptographic protocols to encrypt emails, files, and other critical data. This not only protects information in transit, but also guards against loss or theft. In addition, end-user security software scans computers for pieces of malicious code, quarantines this code, and then removes it from the machine.
 
