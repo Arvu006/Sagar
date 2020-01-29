@@ -28,7 +28,7 @@ End-user education addresses the most unpredictable cyber-security factor: peopl
 
 **The scale of the cyber threat**
 
-![iot-security-rapid7](https://user-images.githubusercontent.com/59701199/73365333-220c0580-42d2-11ea-9a05-4b3ba0ef9b7d.jpg)
+
 ![https___specials-images forbesimg com_dam_imageserve_700843042_960x0](https://user-images.githubusercontent.com/59701199/73365582-829b4280-42d2-11ea-9de9-83f84e7e5381.jpg)
 
 
