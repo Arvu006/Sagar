@@ -39,3 +39,17 @@ The threats countered by cyber-security are three-fold:
 Common methods attackers use to control computers or networks include viruses, worms, spyware, Trojans, and ransomware. Viruses and worms can self-replicate and damage files or systems, while spyware and Trojans are often used for surreptitious data collection. Ransomware waits for an opportunity to encrypt all the user’s information and demands payment to return access to the user. Malicious code often spreads via an unsolicited email attachment or a legitimate-looking download that actually carries a malware payload.
 Cyber-security threats affect all industries, regardless of size. The industries that reported the most cyberattacks in recent years are healthcare, manufacturing, finance, and government [2]. Some of these sectors are more appealing to cybercriminals because they collect financial and medical data, but all businesses that use networks can be targeted for customer data, corporate espionage, or customer attacks.
 
+
+**End user protection**
+
+
+So, how do cyber-security measures protect users and systems? First, cyber-security relies on cryptographic protocols to encrypt emails, files, and other critical data. This not only protects information in transit, but also guards against loss or theft. In addition, end-user security software scans computers for pieces of malicious code, quarantines this code, and then removes it from the machine.
+
+Security programs can even detect and remove malicious code hidden in Master Boot Record (MBR) and designed to encrypt or wipe data from computer’s hard drive.
+
+
+Electronic security protocols also focus on real-time malware detection. Many use heuristic and behavioral analysis to monitor the behavior of a program and its code to defend against viruses or Trojans that change their shape with each execution (polymorphic and metamorphic malware). Security programs can confine potentially malicious programs to a virtual bubble separate from a user's network to analyze their behavior and learn how to better detect new infections.
+
+
+Security programs continue to evolve new defenses as cyber-security professionals identify new threats and new ways to combat them
+
